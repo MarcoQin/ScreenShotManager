@@ -1,0 +1,2 @@
+# ScreenShotManager
+screen shot manager
